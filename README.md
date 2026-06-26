@@ -26,6 +26,3 @@ An Excel dashboard for warehouse inventory analysis.
 - Slicers
 #Author
 Mohit Mishra
-## Author
-
-Rohit Mishra#
