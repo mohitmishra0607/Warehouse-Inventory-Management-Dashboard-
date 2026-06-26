@@ -24,5 +24,6 @@ An Excel dashboard for warehouse inventory analysis.
 - Pivot Charts
 - Excel Formulas
 - Slicers
+
 #Author
 Mohit Mishra
